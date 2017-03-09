@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome To TEME!
 
-You can use the [editor on GitHub](https://github.com/Temescal-Aquatic-Masters/Temescal-Aquatic-Masters.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image]("/sites/default/files/pool-front-250.jpg")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Temescal Aquatic Masters is a United States Masters Swimming team (team code TEME). We welcome swimmers of all abilities, from recreational swimmers who want feedback and encouragement to collegiate swimmers interested in training for meets and open water swims. Our coaches love swimming and helping adults become better swimmers. [Learn more about Temescal Masters.](/basics)
 
-### Markdown
+## [Rinconada Meet is next up!](content/rinconada-meet-next)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are lots of races at Rinconada that you don't get many chances to swim elsewhere including 1000 Free and 1650 Fly!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Temescal-Aquatic-Masters/Temescal-Aquatic-Masters.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sign up now!
+[https://www.clubassistant.com/club/meet_information.cfm?c=1469&amp;smid=8414](https://www.clubassistant.com/club/meet_information.cfm?c=1469&amp;smid=8414" title="https://www.clubassistant.com/club/meet_information.cfm?c=1469&amp;smid=8414">)
